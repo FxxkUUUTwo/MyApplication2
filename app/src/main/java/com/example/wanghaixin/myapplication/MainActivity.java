@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 /**
  *
- *dddddddasdasdasdasdasd
+ *nishuosha
  */
 public class MainActivity extends AppCompatActivity {
 
