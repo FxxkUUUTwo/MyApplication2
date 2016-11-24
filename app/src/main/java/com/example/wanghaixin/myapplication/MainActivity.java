@@ -16,7 +16,7 @@ import android.os.Bundle;
  *
  * sjsjsjssjsj
  * 是打算
- *
+ *傻逼
  */
 public class MainActivity extends AppCompatActivity {
 
